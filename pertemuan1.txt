@@ -1,0 +1,5 @@
+pertemuan 1:
+- instalasi:
+  -> git
+  -> vscode
+  -> xampp
